@@ -20,7 +20,7 @@ To understand the current EV/Hybrid market landscape in India to identify causes
 - **Sales Volume (units)**
 - **Sales Revenue (INR)**
 
-#### Dimensions
+### Dimensions
 - **Geography**
 - **Time**
 - **Vehicle Maker**
