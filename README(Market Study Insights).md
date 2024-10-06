@@ -28,7 +28,7 @@ To understand the current EV/Hybrid market landscape in India to identify causes
 
 ## Market Scenario Insights
 
-![AtliQ Motors Electric Vehicle Market Study Dashboard_Page_1](https://github.com/user-attachments/assets/0a5e08ce-7ba8-4fa1-9563-2260dab0de4c)
+![AtliQ Motors Electric Vehicle Market Study Dashboard_Page_1](https://github.com/user-attachments/assets/8c49aba5-4bc5-444a-88cc-765d121c9359)
 
 ### 1. Market Share
 
